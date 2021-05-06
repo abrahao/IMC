@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(226, 221, 221);
+}
+header{
+    background-color: rgb(202, 230, 187);
+}
+.form{
+    background-color: honeydew;
+    margin-right: 30%;
+    margin-left: 30%;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
+.resultado{
+    background-color: honeydew;
+    margin-right: 30%;
+    margin-left: 30%;
+    margin-top: 5%;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
